@@ -34,7 +34,6 @@ Preencha as informações obrigatórias exigidas na guia Básico, que é o requi
 
 A tabela a seguir fornece detalhes para as informações necessárias na guia Básico:
 
-![](imagens/Captura de tela de 2025-07-24 07-31-52.png)
 
 Em Detalhes da instância gerenciada, selecione Configurar instância gerenciada na seção Computação + armazenamento para abrir a página Computação + armazenamento.
 
@@ -42,7 +41,6 @@ Em Detalhes da instância gerenciada, selecione Configurar instância gerenciada
 
 A tabela a seguir fornece recomendações para a computação e o armazenamento para sua instância gerenciada SQL de exemplo:
 
-![](imagens/Captura de tela de 2025-07-24 07-33-27.png)
 
 
 

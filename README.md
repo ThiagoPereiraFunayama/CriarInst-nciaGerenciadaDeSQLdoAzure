@@ -26,7 +26,7 @@ Selecione + Criar para abrir a página Selecionar opção de implantação do SQ
 
 Escolha Instância única na lista suspensa e depois selecione Criar para abrir a página Criar instância Gerenciada de SQL do Azure.
 
-![]()
+![](imagens/select-sql-deploment-page.png)
 
 ## Guia Básico
 
@@ -34,15 +34,15 @@ Preencha as informações obrigatórias exigidas na guia Básico, que é o requi
 
 A tabela a seguir fornece detalhes para as informações necessárias na guia Básico:
 
-![]()
+![](imagens/Captura de tela de 2025-07-24 07-31-52.png)
 
 Em Detalhes da instância gerenciada, selecione Configurar instância gerenciada na seção Computação + armazenamento para abrir a página Computação + armazenamento.
 
-![]()
+![](imagens/open-compute-storage-page.png)
 
 A tabela a seguir fornece recomendações para a computação e o armazenamento para sua instância gerenciada SQL de exemplo:
 
-![]()
+![](imagens/Captura de tela de 2025-07-24 07-33-27.png)
 
 
 

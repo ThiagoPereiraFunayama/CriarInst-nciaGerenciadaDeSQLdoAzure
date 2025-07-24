@@ -1,0 +1,2 @@
+# CriarInst-nciaGerenciadaDeSQLdoAzure
+Projeto Azure 
